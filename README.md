@@ -7,12 +7,12 @@ Progrocode is a multi-language code compiler and runtime environment. It support
 Click on "Create Program" to start:
 
 ### Choose Language
-- **Python** ![pythonlogo](path/to/pythonlogo.png)
-- **JavaScript** ![jslogo](path/to/jslogo.png)
-- **Lua** ![lualogo](path/to/lualogo.png)
-- **HTML** ![htmllogo](path/to/htmllogo.png)
-- **Swift** ![swiftlogo](path/to/swiftlogo.png)
-- **Java** ![javalogo](path/to/javalogo.png)
+- [**Python**] ![pythonlogo](path/to/pythonlogo.png)
+- [**JavaScript**] ![jslogo](path/to/jslogo.png)
+- [**Lua**] ![lualogo](path/to/lualogo.png)
+- [**HTML**] ![htmllogo](path/to/htmllogo.png)
+- [**Swift**] ![swiftlogo](path/to/swiftlogo.png)
+- [**Java**] ![javalogo](path/to/javalogo.png)
 
 ### Features
 - **Main File**: Automatically generated main file according to the chosen language.
